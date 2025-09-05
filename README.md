@@ -1,6 +1,7 @@
 # Libertas_project
 
-Project Libertas is a strategic game focused on the interaction with a data-driven, living world. 
-Immerse yourself in the escalating war for The Bit, where two powerful factions clash at the very heart of Libertas - the Cradle of Balance. 
-This project will be developed in many main phases. 
-The first phase will focus on establishing the foundational ecosystem and building the single-player experience.
+## Overview
+
+Dive into the war for The Bit in Project Libertas, a strategy game featuring a data-driven, living world. As two factions clash in the heart of the continent—the Cradle of Balance—you must master a dynamic ecosystem to claim victory. Development begins with a single-player experience to establish this foundational gameplay.
+
+## Table of Contents
