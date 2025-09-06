@@ -1,10 +1,19 @@
 # Libertas_project
+A strategic game where legendary battles of the past are reborn as a futuristic eSport! ⚽️
 
-# 😀 Overview
+### 💡 Core Concept
+Enter The Grid, a massive virtual simulation where the historic "⚔ Libertas War" has become the world's most popular professional sport.
+Players become elite Divers, competing for fame and glory in spectacular re-enactments of legendary battles.
 
-Dive into the war for The Bit in Project Libertas, a strategy game featuring a data-driven, living world. As two factions clash in the heart of the continent—the Cradle of Balance—you must master a dynamic ecosystem to claim victory. Development begins with a single-player experience to establish this foundational gameplay.
+### 🎮 Gameplay
+Master a dynamic, data-driven ecosystem to strategically outmaneuver rivals.
+Victory comes not from character stats, but from pure skill and environmental control.
 
-## 🤔 Table of Contents
-[1.Project:Lockstep](#projectlockstep-phase1)
+### 🗺️ Development Roadmap
+Phase 1: Establish The Grid as a vibrant player hub and training ground.
+Phase 2: Implement the competitive Libertas Arena matches.
 
-## Project:Lockstep(Phase1)
+## ⭐️ Table of Contents
+[1.Project:Lockstep](#projectlockstep-step1)
+
+## Project:Lockstep (Step1)
