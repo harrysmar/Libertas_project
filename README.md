@@ -1,4 +1,4 @@
-# Libertas_project
+# 👋 Overview
 A strategic game where legendary battles of the past are reborn as a futuristic eSport! 🏆
 
 ### 💡 Core Concept
