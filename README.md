@@ -13,7 +13,7 @@ Victory comes not from character stats, but from pure skill and environmental co
 Phase 1: Establish The Grid as a vibrant player hub and training ground.
 Phase 2: Implement the competitive Libertas Arena matches.
 
-## ⭐️ Table of Contents
-[1.Project:Lockstep](#projectlockstep-step1)
+## 🌟 Table of Contents
+[1.Project:Lockstep](#📓-projectlockstep-step1)
 
-## Project:Lockstep (Step1)
+## 📓 Project:Lockstep (Step1)
