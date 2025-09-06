@@ -1,5 +1,5 @@
 # Libertas_project
-A strategic game where legendary battles of the past are reborn as a futuristic eSport! ⚽️
+A strategic game where legendary battles of the past are reborn as a futuristic eSport! 🏆
 
 ### 💡 Core Concept
 Enter The Grid, a massive virtual simulation where the historic "⚔ Libertas War" has become the world's most popular professional sport.
